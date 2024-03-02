@@ -1,0 +1,63 @@
+{
+  "id": "53193602-94d4-4f20-9aa2-8f2495f8ecd3",
+  "name": "Enh_Medisave",
+  "publisher": "Enhanced",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "ec255f57-31d0-4ca2-b751-f2fa7c745abb",
+      "name": "Shopify Connector",
+      "publisher": "Microsoft",
+      "version": "22.0.0.0"
+    },
+    {
+      "id": "2962326e-bebf-464f-a9d0-09db8e32d1c9",
+      "name": "Medisave_MedScope",
+      "publisher": "Enhanced Solutions Consultants",
+      "version": "1.0.0.32"
+    },
+    {
+      "id": "645e1116-8c3f-4f24-ae71-734e66fb2463",
+      "name": "Enh_Med_ShopifyDataCapture",
+      "publisher": "Enhanced",
+      "version": "1.0.0.5"
+    },
+    {
+      "id": "d3803046-a8e4-475c-a98d-33f7146028de",
+      "name": "Enhanced Int. Logs",
+      "publisher": "Enhanced",
+      "version": "1.0.24.0"
+      },
+      {
+        "id": "afe50729-36e7-4bf7-9052-20ab3372c1ac",
+        "name": "Enh-PaymentDownload",
+        "publisher": "Enhanced",
+        "version": "1.0.0.0"
+        }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "21.0.0.0",
+  "idRanges": [
+    {
+      "from": 54100,
+      "to": 54149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "11.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
